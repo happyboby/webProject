@@ -28,8 +28,7 @@
 12、[CSS3实现按钮温柔闪光灯效果](https://rawgit.com/YUUXIAO/webProject/master/Menu/button/btn2.html)<br>
 ### 其它<br>
 1、[DOM实现鼠标滑过右边动态显示详细信息](https://rawgit.com/YUUXIAO/webProject/master/changeInfo/info.html)<br>
-2、[实现复选框全选、全不选和反选功能](http://htmlpreview.github.io/?
-//github.com/YUUXIAO/webProject/blob/master/Menu/checkboxChoose/index.html)<br>
+2、[实现复选框全选、全不选和反选功能](http://htmlpreview.github.io/?https://github.com/YUUXIAO/webProject/blob/master/Menu/checkboxChoose/index.html)<br>
 3、[CSS3实现钟表可走动](https://rawgit.com/YUUXIAO/webProject/master/clocks/index.html)<br>
 4、[DOM实现拖拽购物车结账功能](https://rawgit.com/YUUXIAO/webProject/master/dragShoppingcar/index.html)<br>
 5、[实现抽屉式效果图片展示](https://rawgit.com/YUUXIAO/webProject/master/drawerImg/index.html)<br>
